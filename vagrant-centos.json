@@ -7,7 +7,7 @@
       "guest_additions_path": "",
       "redhat_release": "",
       "redhat_platform": "",
-      "disk_size": "20000"
+      "disk_size": "20480"
     },
 
   "builders": [
